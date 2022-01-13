@@ -4,16 +4,12 @@
   </a>
 </p>
 
-<h1 align="center">
-  Doks
-</h1>
-
 <h3 align="center">
-  Modern Documentation Theme
+  AWS Platform Team Documentation
 </h3>
 
 <p align="center">
-  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
+  Documentation site for a Platform Team working in AWS
 </p>
 
 <p align="center">
@@ -33,12 +29,6 @@
     <img src="https://img.shields.io/netlify/8a1009d5-88ac-413e-96ef-3f928674a083?style=flat-square" alt="Netlify">
   </a>
 </p>
-
-![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
-
-## Demo
-
-- [doks.netlify.app](https://doks.netlify.app/)
 
 ## Why Doks?
 
@@ -122,21 +112,3 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 - [Netlify](https://docs.netlify.com/)
 - [Hugo](https://gohugo.io/documentation/)
 - [Doks](https://getdoks.org/)
-
-## Communities
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/doks)]
-
-[![OC sponsor 0](https://opencollective.com/doks/sponsor/0/avatar.svg)](https://opencollective.com/doks/sponsor/0/website)
-
-## Backers
-
-Support this project by becoming a backer. Your avatar will show up here. [[Become a backer](https://opencollective.com/doks)]
-
-[![Backers](https://opencollective.com/doks/backers.svg)](https://opencollective.com/doks)
