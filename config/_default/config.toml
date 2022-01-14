@@ -1,4 +1,4 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://harshadranganathan.github.io/aws-platform-team-documentation"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
