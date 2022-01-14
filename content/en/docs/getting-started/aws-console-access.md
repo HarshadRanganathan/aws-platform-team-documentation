@@ -23,7 +23,7 @@ We use SAML based federated login.
 
 ## Roles
 
-Below are the roles available. 
+Below are the roles available.
 
 Please raise request to the appropriate role that you need.
 

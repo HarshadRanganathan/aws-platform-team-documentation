@@ -13,7 +13,7 @@ weight: 3
 toc: true
 ---
 
-Terraform is used to allow users to easily and repeatably create resources. 
+Terraform is used to allow users to easily and repeatably create resources.
 
 Creation of resources should not be done manually as this leaves a risk that they will not be repeatable should there be a failure or accidental deletion
 
