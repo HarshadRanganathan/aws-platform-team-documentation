@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://harshadranganathan.github.io/aws-platform-team-documentation/sitemap.xml
+Sitemap: https://aws-platform-team-documentation.rharshad.com/sitemap.xml
