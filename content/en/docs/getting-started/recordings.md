@@ -12,3 +12,5 @@ menu:
 weight: 7
 toc: true
 ---
+
+Recorded sessions on Architecture Overview, KT's and other topics are available below:

@@ -12,3 +12,9 @@ menu:
 weight: 2
 toc: true
 ---
+
+## Installation
+
+- Python
+- Virtualenv
+- AWS CLI
