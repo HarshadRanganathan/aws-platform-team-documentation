@@ -1,4 +1,4 @@
-baseurl = "https://harshadranganathan.github.io/aws-platform-team-documentation"
+baseurl = "https://aws-platform-team-documentation.rharshad.com"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
