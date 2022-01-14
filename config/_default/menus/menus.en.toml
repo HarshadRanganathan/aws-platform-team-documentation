@@ -18,7 +18,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/getting-started/introduction/"
+  url = "/docs/getting-started/aws-console-access/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 

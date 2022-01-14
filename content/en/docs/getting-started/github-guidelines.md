@@ -12,3 +12,18 @@ menu:
 weight: 5
 toc: true
 ---
+
+## Git Flow
+
+1. Clone the repository to your local
+2. If you had already cloned the repo, pull the latest changes from master/main branch
+3. Create a new branch
+4. Do your changes
+5. Regularly commit and push your changes to remote branch
+6. Once you are done with your changes, raise PR and assign reviewers
+7. Address any review comments
+8. After PR is approved, merge your changes to master/main
+
+## Access
+
+{{<alert icon="⚠️" text="Please make sure you have correct access rights and the repository exists">}}
