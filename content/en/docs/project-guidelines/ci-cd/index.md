@@ -12,3 +12,5 @@ menu:
 weight: 5
 toc: true
 ---
+
+{{< img src="ci-cd-jenkins-flow.png" alt="CI/CD Jenkins Flow" caption="<em>CI/CD Jenkins Flow</em>" class="border-0" >}}
