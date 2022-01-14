@@ -1,15 +1,14 @@
 ---
-title: "AWS Console Access"
+title: "Best Practices"
 description: ""
 lead: ""
-date: 2022-01-14T00:14:16Z
-lastmod: 2022-01-14T00:14:16Z
+date: 2022-01-14T00:20:49Z
+lastmod: 2022-01-14T00:20:49Z
 draft: false
 images: []
 menu: 
   docs:
     parent: "getting-started"
-weight: 1
+weight: 3
 toc: true
 ---
-

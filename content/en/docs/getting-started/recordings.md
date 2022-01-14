@@ -1,15 +1,14 @@
 ---
-title: "AWS Console Access"
+title: "Recordings"
 description: ""
 lead: ""
-date: 2022-01-14T00:14:16Z
-lastmod: 2022-01-14T00:14:16Z
+date: 2022-01-14T00:21:17Z
+lastmod: 2022-01-14T00:21:17Z
 draft: false
 images: []
 menu: 
   docs:
     parent: "getting-started"
-weight: 1
+weight: 7
 toc: true
 ---
-
