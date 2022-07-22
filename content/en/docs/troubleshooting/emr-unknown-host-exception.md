@@ -13,4 +13,8 @@ weight: 2
 toc: true
 ---
 
-Hi
+Let's say your EMR job is trying to access an RDS instance, you may get ***Caused by: java.net.UnknownHostException:***.
+
+This is because you are running your job in the wrong VPC.
+
+Ensure that you configure your EMR job to be run in the same VPC as your resources which you are trying to access.
