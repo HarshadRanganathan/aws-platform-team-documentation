@@ -1,39 +1,3 @@
-[[docs]]
-  name = "Getting Started"
-  weight = 1
-  identifier = "getting-started"
-  url = "/docs/getting-started/"
-  
-[[docs]]
-  name = "Project Guidelines"
-  weight = 2
-  identifier = "project-guidelines"
-  url = "/docs/project-guidelines/"
-
-[[docs]]
-  name = "Architecture"
-  weight = 3
-  identifier = "architecture"
-  url = "/docs/architecture/"
-
-[[docs]]
-  name = "Security Violations"
-  weight = 4
-  identifier = "security-violations"
-  url = "/docs/security-violations/"
-
-[[docs]]
-  name = "Cost Optimization"
-  weight = 5
-  identifier = "cost-optimization"
-  url = "/docs/cost-optimization/"
-
-[[docs]]
-  name = "Troubleshooting"
-  weight = 6
-  identifier = "troubleshooting"
-  url = "/docs/troubleshooting/"
-
 [[main]]
   name = "Docs"
   url = "/docs/getting-started/aws-console-access/"
