@@ -13,4 +13,8 @@ weight: 1
 toc: true
 ---
 
-Hi
+To block Instance Metadata v1 from being used for an EC2 instance post creation, follow below steps:
+
+```bash
+aws ec2 modify-instance-metadata-options --instance-id ${INSTANCE_ID} --http-tokens required --http-endpoint enabled
+```
