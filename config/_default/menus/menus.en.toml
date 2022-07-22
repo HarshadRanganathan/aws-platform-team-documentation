@@ -17,14 +17,20 @@
   url = "/docs/architecture/"
 
 [[docs]]
-  name = "Cost Optimization"
+  name = "Security Violations"
   weight = 4
+  identifier = "security-violations"
+  url = "/docs/security-violations/"
+
+[[docs]]
+  name = "Cost Optimization"
+  weight = 5
   identifier = "cost-optimization"
   url = "/docs/cost-optimization/"
 
 [[docs]]
   name = "Troubleshooting"
-  weight = 5
+  weight = 6
   identifier = "troubleshooting"
   url = "/docs/troubleshooting/"
 
