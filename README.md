@@ -107,6 +107,12 @@ npm run start
 
 Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
 
+Create a new page 
+
+```
+npm run create docs/troubleshooting/aws-azs.md
+```
+
 ## Documentation
 
 - [Netlify](https://docs.netlify.com/)

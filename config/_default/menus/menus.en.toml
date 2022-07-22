@@ -16,6 +16,12 @@
   identifier = "architecture"
   url = "/docs/architecture/"
 
+[[docs]]
+  name = "Troubleshooting"
+  weight = 4
+  identifier = "troubleshooting"
+  url = "/docs/troubleshooting/"
+
 [[main]]
   name = "Docs"
   url = "/docs/getting-started/aws-console-access/"
