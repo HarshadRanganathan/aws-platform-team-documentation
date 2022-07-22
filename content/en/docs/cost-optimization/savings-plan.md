@@ -15,13 +15,13 @@ toc: true
 
 ## What is Savings Plans
 
-Savings Plans is a flexible pricing model offering lower prices compared to On-Demand pricing, in exchange for a specific usage commitment (measured in $/hour) for a one or three-year period. 
+Savings Plans is a flexible pricing model offering lower prices compared to On-Demand pricing, in exchange for a specific usage commitment (measured in $/hour) for a one or three-year period.  
 
-AWS offers three types of Savings Plans – Compute Savings Plans, EC2 Instance Savings Plans, and Amazon SageMaker Savings Plans. 
+AWS offers three types of Savings Plans – Compute Savings Plans, EC2 Instance Savings Plans, and Amazon SageMaker Savings Plans.  
 
-Compute Savings Plans apply to usage across Amazon EC2, AWS Lambda, and AWS Fargate. 
+Compute Savings Plans apply to usage across Amazon EC2, AWS Lambda, and AWS Fargate.  
 
-The EC2 Instance Savings Plans apply to EC2 usage, and Amazon SageMaker Savings Plans apply to Amazon SageMaker usage. 
+The EC2 Instance Savings Plans apply to EC2 usage, and Amazon SageMaker Savings Plans apply to Amazon SageMaker usage.  
 
 You can sign up a 1- or 3-year term Savings Plans in AWS Cost Explorer and manage your plans by taking advantage of recommendations, performance reporting, and budget alerts.
 

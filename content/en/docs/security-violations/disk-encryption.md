@@ -13,7 +13,7 @@ weight: 2
 toc: true
 ---
 
-## EMR
+## EMR
 
 To encrypt the disk for EMR workloads, perform following actions:
 
