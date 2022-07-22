@@ -102,3 +102,19 @@ To encrypt the disk for EMR workloads, perform following actions:
 ```
 
 [3] Configure your EMR workloads to use the new security configuration from previous step.
+
+e.g. If you are using Step Functions to trigger your EMR jobs, you will update your template to below:
+
+```
+{
+  "States": {
+    "SPIN_UP_THE_CLUSTER": {
+      "Parameters": {
+        "ReleaseLabel": "emr-5.32.0",
+        "SecurityConfiguration": "<security-configuration-name>",
+        ...
+      } 
+    }
+  }  
+}
+```
