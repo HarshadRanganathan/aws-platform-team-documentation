@@ -105,7 +105,7 @@ To encrypt the disk for EMR workloads, perform following actions:
 
 e.g. If you are using Step Functions to trigger your EMR jobs, you will update your template to below:
 
-```
+```json
 {
   "States": {
     "SPIN_UP_THE_CLUSTER": {

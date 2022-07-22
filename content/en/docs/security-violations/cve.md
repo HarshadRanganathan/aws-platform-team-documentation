@@ -15,7 +15,7 @@ toc: true
 
 If any security vulnerabilities are being reported for any EC2 instances, similar to below,
 
-```
+```text
 CVE-2020-27619 - python, python-devel and 4 more
 CVE-2021-33574 - glibc-minimal-langpack, glibc-devel and 6 more
 CVE-2022-1154 - vim-minimal, vim-common and 2 more
@@ -33,7 +33,7 @@ which updates all the libraries to the latest version and will resolve all of th
 
 In some cases, you may also see below Kernel vulnerability.
 
-```
+```text
 CVE-2022-29581 - kernel
 ```
 
